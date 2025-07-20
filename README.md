@@ -4,8 +4,8 @@ A responsive client-side hash generator supports MD5, SHA-1, SHA-2, and SHA-3 al
 
 > ⚡ Built with accessibility, performance, and cybersecurity awareness in mind.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=vercel)](https://zer0acr4.github.io/Cryptographic-Hash-Generator/) <br>
-![GitHub repo size](https://img.shields.io/github/repo-size/zer0acr4/Cryptographic-Hash-Generator)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=vercel)](https://zer0arc4.github.io/Cryptographic-Hash-Generator/) <br>
+![GitHub repo size](https://img.shields.io/github/repo-size/zer0arc4/Cryptographic-Hash-Generator)
 
 
 ---
@@ -32,7 +32,7 @@ A responsive client-side hash generator supports MD5, SHA-1, SHA-2, and SHA-3 al
 ## 🖥️ Live Demo
 
 🌐 **Try it here:**  
-👉 [https://zer0acr4.github.io/Cryptographic-Hash-Generator/](https://zer0acr4.github.io/Cryptographic-Hash-Generator/)
+👉 [https://zer0acr4.github.io/Cryptographic-Hash-Generator/](https://zer0arc4.github.io/Cryptographic-Hash-Generator/)
 
 ---
 ## 🧩 Use Cases
@@ -84,7 +84,7 @@ Cryptographic-Hash-Generator/
 ## 🧪 How to Use
 
 ### ▶️ Online
-Just open the [Live Demo](https://zer0acr4.github.io/Cryptographic-Hash-Generator/) — no installation needed.
+Just open the [Live Demo](https://zer0arc4.github.io/Cryptographic-Hash-Generator/) — no installation needed.
 
 ## 🛠️ Run Locally
 ```bash
@@ -119,7 +119,7 @@ For secure applications, use SHA-2, or SHA-3.
 ## 👨‍💻 Author
 Rithesh Chandraa Alakati
  - 🎓 B.Tech Cybersecurity Student | Aspiring Pentester & Frontend Developer
- - 🔗 GitHub: [zer0arc4](https://github.com/zer0acr4)
+ - 🔗 GitHub: [zer0arc4](https://github.com/zer0arc4)
  - 📫 LinkedIn [Alakati Rithesh Chandra ](https://www.linkedin.com/in/alakati-rithesh-chandra)
  
 
