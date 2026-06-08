@@ -32,7 +32,7 @@ A responsive client-side hash generator supports MD5, SHA-1, SHA-2, and SHA-3 al
 ## 🖥️ Live Demo
 
 🌐 **Try it here:**  
-👉 [https://zer0acr4.github.io/Cryptographic-Hash-Generator/](https://zer0arc4.github.io/Cryptographic-Hash-Generator/)
+👉 [https://zer0arc4.github.io/Cryptographic-Hash-Generator/](https://zer0arc4.github.io/Cryptographic-Hash-Generator/)
 
 ---
 ## 🧩 Use Cases
